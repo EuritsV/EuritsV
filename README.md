@@ -50,6 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuritsV&layout=compact" alt="Top Languages" />
 </p>
 
+
 ---
 
 ### 📫 How to Reach Me
