@@ -42,13 +42,11 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EuritsV&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuritsV&layout=compact" alt="Top Languages" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EuritsV&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EuritsV&layout=compact)
+
 
 
 ---
