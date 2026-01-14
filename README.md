@@ -40,14 +40,11 @@
 - SQL (basic)
 
 ---
-
 ### 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EuritsV&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EuritsV&layout=compact)
-
-
 
 ---
 
