@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Eurits
 
-🎯 **QA Engineer | Software Testing Specialist**  
+🎯 **QA Analyst | Software Testing Specialist**  
 💻 Passionate about **quality assurance, test design, continuous improvement, and learning**  
 📍 Based in **Portugal**
 
